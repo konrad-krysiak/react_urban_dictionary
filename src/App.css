@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+
+.definition_container {
+  text-align: left;
+  padding: 50px;
+}
+
+.definition {
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  list-style-type: circle;
+  display:list-item;
+}
+
+.input-text {
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+  font-size: 15px;
+}
